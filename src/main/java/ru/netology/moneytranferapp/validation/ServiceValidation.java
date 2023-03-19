@@ -37,10 +37,10 @@ public class ServiceValidation {
             throw new WrongInputData("Срок действия карты указан не верно", id);
 
         }
-        if(transferBetweenCards == null){
-            logger.error("Операция не определена");
-            throw new ServerException("Операция не определена", id);
-        }
+//        if(transferBetweenCards == null){
+//            logger.error("Операция не определена");
+//            throw new ServerException("Операция не определена", id);
+//        }
         if(transferBetweenCards.getAmount().getValue() == 0){
             logger.error("Недостаточно денег на карте");
             throw new WrongInputData("Недостаточно денег на карте", id);
@@ -51,11 +51,12 @@ public class ServiceValidation {
             logger.error("Ошибка подтверждения операции");
             throw new ServerException("Ошибка подтверждения операции", null);
         }
+        String id = confirmOperation.getOperationID();
         if(confirmOperation.getOperationID() == null){
             logger.error("Неверный ID операции");
             throw new WrongInputData("Неверный ID операции", null);
         }
-        String id = confirmOperation.getOperationID();
+
         if(!(confirmOperation.getCode().equals(codeConformation))){
             logger.error("Неверный код подтверждения " + confirmOperation.getCode());
             throw new WrongInputData("Неверный код подтверждения ", id);
