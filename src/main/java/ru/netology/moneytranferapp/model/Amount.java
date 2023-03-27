@@ -1,15 +1,28 @@
 package ru.netology.moneytranferapp.model;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-
-@AllArgsConstructor
-@NoArgsConstructor
-@Getter
-
-
 public class Amount {
-    private int value;
-    private String currency;
+    int value;
+    String currency;
+
+    public Amount(int value, String currency) {
+        this.value = value;
+        this.currency = currency;
+
+    }
+
+    public int getValue() {
+        return value;
+    }
+
+    public void setValue(int value) {
+        this.value = value;
+    }
+
+    public String getCurrency() {
+        return currency;
+    }
+
+    public void setCurrency(String currency) {
+        this.currency = currency;
+    }
 }

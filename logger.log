@@ -37,3 +37,294 @@
 2023-03-19 22:35:29 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1234567891472583', cardFromValidTill='03/25', cardFromCVV='111', cardToNumber='1472583691472583', amount=ru.netology.moneytranferapp.model.Amount@38e4e92a} под ID 0
 2023-03-19 22:35:29 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1234567891472583', cardFromValidTill='03/25', cardFromCVV='111', cardToNumber='1472583691472583', amount=ru.netology.moneytranferapp.model.Amount@38e4e92a} на перевод денежных средств вненесена под id 0
 2023-03-19 22:35:29 ERROR ServiceValidation:55 - Неверный ID операции
+2023-03-20 21:46:33 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='5166515615651516', cardFromValidTill='05/25', cardFromCVV='222', cardToNumber='1566166291651651', amount=ru.netology.moneytranferapp.model.Amount@5c59cf84} под ID 0
+2023-03-20 21:46:33 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='5166515615651516', cardFromValidTill='05/25', cardFromCVV='222', cardToNumber='1566166291651651', amount=ru.netology.moneytranferapp.model.Amount@5c59cf84} на перевод денежных средств вненесена под id 0
+2023-03-20 21:46:33 ERROR ServiceValidation:56 - Неверный ID операции
+2023-03-20 21:46:48 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='5166515615651516', cardFromValidTill='05/25', cardFromCVV='222', cardToNumber='1566166291651651', amount=ru.netology.moneytranferapp.model.Amount@389de499} под ID 1
+2023-03-20 21:46:48 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='5166515615651516', cardFromValidTill='05/25', cardFromCVV='222', cardToNumber='1566166291651651', amount=ru.netology.moneytranferapp.model.Amount@389de499} на перевод денежных средств вненесена под id 1
+2023-03-20 21:46:48 ERROR ServiceValidation:56 - Неверный ID операции
+2023-03-20 21:48:33 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@66635ae2} под ID 0
+2023-03-20 21:48:33 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@66635ae2} на перевод денежных средств вненесена под id 0
+2023-03-20 21:48:33 ERROR ServiceValidation:56 - Неверный ID операции
+2023-03-20 21:52:13 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@1d65303a} под ID 0
+2023-03-20 21:52:13 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@1d65303a} на перевод денежных средств вненесена под id 0
+2023-03-20 21:52:13 ERROR ServiceValidation:56 - Неверный ID операции
+2023-03-20 22:03:33 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@5a086bb8} под ID 0
+2023-03-20 22:03:33 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@5a086bb8} на перевод денежных средств вненесена под id 0
+2023-03-20 22:03:33 ERROR ServiceValidation:56 - Неверный ID операции
+2023-03-20 22:05:08 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@33dee850} под ID 0
+2023-03-20 22:05:08 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@33dee850} на перевод денежных средств вненесена под id 0
+2023-03-20 22:05:08 ERROR ServiceValidation:56 - Неверный ID операции
+2023-03-20 22:05:32 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@20e130e2} под ID 0
+2023-03-20 22:05:32 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='03/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@20e130e2} на перевод денежных средств вненесена под id 0
+2023-03-20 22:07:15 INFO  ServiceImpl:37 - Операция 0 подтверждена 
+2023-03-20 22:07:48 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='02/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@834cffe} под ID 0
+2023-03-20 22:07:48 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='02/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@834cffe} на перевод денежных средств вненесена под id 0
+2023-03-20 22:07:48 ERROR ServiceValidation:56 - Неверный ID операции
+2023-03-20 22:18:31 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='02/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@49b99876} под ID 0
+2023-03-20 22:18:55 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='02/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@49b99876} на перевод денежных средств вненесена под id 0
+2023-03-20 22:26:27 ERROR ServiceValidation:56 - Неверный ID операции
+2023-03-20 22:28:39 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='02/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@4de817fd} под ID 0
+2023-03-20 22:28:39 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='02/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@4de817fd} на перевод денежных средств вненесена под id 0
+2023-03-20 22:28:39 ERROR ServiceValidation:58 - Неверный ID операции
+2023-03-21 21:28:19 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@7a72b277} под ID 0
+2023-03-21 21:28:19 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@7a72b277} на перевод денежных средств вненесена под id 0
+2023-03-21 21:28:19 ERROR ServiceValidation:58 - Неверный ID операции
+2023-03-21 21:37:34 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@51807f0f} под ID 0
+2023-03-21 21:37:34 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@51807f0f} на перевод денежных средств вненесена под id 0
+2023-03-21 21:37:34 ERROR ServiceValidation:58 - Неверный ID операции
+2023-03-21 21:40:21 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@d30b63} под ID 1
+2023-03-21 21:40:21 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@d30b63} на перевод денежных средств вненесена под id 1
+2023-03-21 21:40:21 ERROR ServiceValidation:58 - Неверный ID операции
+2023-03-21 21:59:55 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@4f0f396a} под ID 0
+2023-03-21 21:59:55 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@4f0f396a} на перевод денежных средств вненесена под id 0
+2023-03-21 21:59:55 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-21 22:07:23 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@caf694f} под ID 0
+2023-03-21 22:07:23 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@caf694f} на перевод денежных средств вненесена под id 0
+2023-03-21 22:07:23 ERROR ServiceValidation:65 - Неверный ID операции
+2023-03-21 22:12:47 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@7cffbd20} под ID 1
+2023-03-21 22:12:47 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@7cffbd20} на перевод денежных средств вненесена под id 1
+2023-03-21 22:12:47 ERROR ServiceValidation:65 - Неверный ID операции
+2023-03-21 22:14:12 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='222', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@1e6d3eb8} под ID 2
+2023-03-21 22:14:12 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='222', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@1e6d3eb8} на перевод денежных средств вненесена под id 2
+2023-03-21 22:14:12 ERROR ServiceValidation:65 - Неверный ID операции
+2023-03-21 22:15:34 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='222', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@67538773} под ID 3
+2023-03-21 22:15:34 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/25', cardFromCVV='222', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@67538773} на перевод денежных средств вненесена под id 3
+2023-03-21 22:15:34 ERROR ServiceValidation:65 - Неверный ID операции
+2023-03-21 22:21:58 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/28', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@50b722db} под ID 0
+2023-03-21 22:21:58 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/28', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@50b722db} на перевод денежных средств вненесена под id 0
+2023-03-21 22:21:58 ERROR ServiceValidation:65 - Неверный ID операции
+2023-03-21 22:24:58 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/28', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@53dfa969} под ID 1
+2023-03-21 22:24:58 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/28', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@53dfa969} на перевод денежных средств вненесена под id 1
+2023-03-21 22:24:58 ERROR ServiceValidation:65 - Неверный ID операции
+2023-03-21 22:35:00 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/28', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@7491b48f} под ID 0
+2023-03-21 22:35:00 INFO  ServiceImpl:30 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/28', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@7491b48f} на перевод денежных средств вненесена под id 0
+2023-03-21 22:35:00 ERROR ServiceValidation:65 - Неверный ID операции
+2023-03-21 22:57:00 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/28', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@4ad750da} под ID 0
+2023-03-21 22:57:00 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='11/28', cardFromCVV='255', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@4ad750da} на перевод денежных средств вненесена под id 0
+2023-03-21 22:57:00 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 1
+2023-03-21 22:57:00 INFO  ServiceImpl:39 - Операция 1 подтверждена 
+2023-03-21 22:58:29 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='10/28', cardFromCVV='222', cardToNumber='3333333333333333', amount=ru.netology.moneytranferapp.model.Amount@523098df} под ID 2
+2023-03-21 22:58:29 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='10/28', cardFromCVV='222', cardToNumber='3333333333333333', amount=ru.netology.moneytranferapp.model.Amount@523098df} на перевод денежных средств вненесена под id 2
+2023-03-21 22:58:29 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 3
+2023-03-21 22:58:29 INFO  ServiceImpl:39 - Операция 3 подтверждена 
+2023-03-22 21:05:28 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/25', cardFromCVV='123', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@15efba06} под ID 0
+2023-03-22 21:05:28 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/25', cardFromCVV='123', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@15efba06} на перевод денежных средств вненесена под id 0
+2023-03-22 21:05:28 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 1
+2023-03-22 21:05:28 INFO  ServiceImpl:39 - Операция 1 подтверждена 
+2023-03-22 21:07:08 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='10/25', cardFromCVV='123', cardToNumber='3333333333333333', amount=ru.netology.moneytranferapp.model.Amount@579618cd} под ID 0
+2023-03-22 21:07:08 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='10/25', cardFromCVV='123', cardToNumber='3333333333333333', amount=ru.netology.moneytranferapp.model.Amount@579618cd} на перевод денежных средств вненесена под id 0
+2023-03-22 21:07:08 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 1
+2023-03-22 21:07:08 INFO  ServiceImpl:39 - Операция 1 подтверждена 
+2023-03-22 21:09:42 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='3333333333333333', cardFromValidTill='10/25', cardFromCVV='222', cardToNumber='4444444444444444', amount=ru.netology.moneytranferapp.model.Amount@4de817fd} под ID 0
+2023-03-22 21:09:42 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='3333333333333333', cardFromValidTill='10/25', cardFromCVV='222', cardToNumber='4444444444444444', amount=ru.netology.moneytranferapp.model.Amount@4de817fd} на перевод денежных средств вненесена под id 0
+2023-03-22 21:09:42 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 1
+2023-03-22 21:09:42 INFO  ServiceImpl:39 - Операция 1 подтверждена 
+2023-03-22 21:11:39 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='10/25', cardFromCVV='111', cardToNumber='6666666666666666', amount=ru.netology.moneytranferapp.model.Amount@d55eb41} под ID 0
+2023-03-22 21:11:39 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='10/25', cardFromCVV='111', cardToNumber='6666666666666666', amount=ru.netology.moneytranferapp.model.Amount@d55eb41} на перевод денежных средств вненесена под id 0
+2023-03-22 21:11:39 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 1
+2023-03-22 21:11:39 INFO  ServiceImpl:39 - Операция 1 подтверждена 
+2023-03-22 21:11:55 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='6666666666666666', cardFromValidTill='10/25', cardFromCVV='333', cardToNumber='4444444444444444', amount=ru.netology.moneytranferapp.model.Amount@4249be79} под ID 2
+2023-03-22 21:11:55 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='6666666666666666', cardFromValidTill='10/25', cardFromCVV='333', cardToNumber='4444444444444444', amount=ru.netology.moneytranferapp.model.Amount@4249be79} на перевод денежных средств вненесена под id 2
+2023-03-22 21:11:55 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 3
+2023-03-22 21:11:55 INFO  ServiceImpl:39 - Операция 3 подтверждена 
+2023-03-22 21:12:22 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='8888888888888888', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='1111111111111111', amount=ru.netology.moneytranferapp.model.Amount@59601a2b} под ID 4
+2023-03-22 21:12:22 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='8888888888888888', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='1111111111111111', amount=ru.netology.moneytranferapp.model.Amount@59601a2b} на перевод денежных средств вненесена под id 4
+2023-03-22 21:12:22 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 5
+2023-03-22 21:12:22 INFO  ServiceImpl:39 - Операция 5 подтверждена 
+2023-03-23 22:20:43 INFO  ServiceImpl:52 - Транзакция проведена
+2023-03-23 22:22:10 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='3333333333333333', amount=ru.netology.moneytranferapp.model.Amount@27944b91}номер операции 01f8d206-005b-40c6-8224-ebd0651e4ca9
+2023-03-23 22:22:10 INFO  ServiceImpl:46 - Запрон на транзакцию по переводу денег. Код операции 
+2023-03-23 22:22:10 INFO  ServiceImpl:52 - Транзакция проведена
+2023-03-23 22:24:22 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='3333333333333333', amount=ru.netology.moneytranferapp.model.Amount@758c7d9}номер операции bd4a2737-81ba-447e-8844-b38361994422
+2023-03-23 22:24:22 INFO  ServiceImpl:46 - Запрон на транзакцию по переводу денег. Код операции 
+2023-03-23 22:24:22 INFO  ServiceImpl:52 - Транзакция проведена
+2023-03-23 22:24:46 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='3333333333333333', amount=ru.netology.moneytranferapp.model.Amount@58335d77}номер операции cea53edd-6a21-42f5-b0ac-bd56145c5f14
+2023-03-23 22:24:46 INFO  ServiceImpl:46 - Запрон на транзакцию по переводу денег. Код операции 
+2023-03-23 22:24:46 INFO  ServiceImpl:52 - Транзакция проведена
+2023-03-23 22:25:42 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@58ecc4bb}номер операции 23802a29-8d61-479c-baf6-1a3b397e8961
+2023-03-23 22:25:42 INFO  ServiceImpl:46 - Запрон на транзакцию по переводу денег. Код операции 
+2023-03-23 22:25:42 INFO  ServiceImpl:52 - Транзакция проведена
+2023-03-23 22:26:00 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@242238cf}номер операции 8a19155c-060b-4484-8a6d-fa39bbc9d144
+2023-03-23 22:26:00 INFO  ServiceImpl:46 - Запрон на транзакцию по переводу денег. Код операции 
+2023-03-23 22:26:00 INFO  ServiceImpl:52 - Транзакция проведена
+2023-03-23 22:51:32 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=111, cardToNumber=2222222222222222, amount=Amount[value=333333300, currency=RUR]]номер операции d43fbd5c-5774-402f-87ee-fd0cfe7bbd2a
+2023-03-23 22:51:32 INFO  ServiceImpl:47 - Запрон на транзакцию по переводу денег. Код операции 
+2023-03-23 22:51:32 INFO  ServiceImpl:53 - Транзакция проведена
+2023-03-24 21:22:24 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards[cardFromNumber=2222222222222222, cardFromValidTill=10/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=55555500, currency=RUR]]номер операции c29e40d7-65d9-4cae-841b-0a6cd56b5cb4
+2023-03-24 21:22:24 INFO  ServiceImpl:49 - Запроc на транзакцию по переводу денег
+2023-03-24 21:22:24 INFO  ServiceImpl:55 - Транзакция проведена
+2023-03-24 21:23:49 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards[cardFromNumber=3333333333333333, cardFromValidTill=10/26, cardFromCVV=222, cardToNumber=3333333333333666, amount=Amount[value=55555500, currency=RUR]]номер операции 8274508c-e991-47b3-b6fb-80ba79259b6f
+2023-03-24 21:23:49 INFO  ServiceImpl:49 - Запроc на транзакцию по переводу денег
+2023-03-24 21:23:49 INFO  ServiceImpl:55 - Транзакция проведена
+2023-03-24 21:47:08 INFO  RepositoryImpl:30 - Трансфер сохранен ru.netology.moneytranferapp.model.TransferBetweenCards@29542945номер операции 3bd71c14-29f8-4837-906b-e88cecb8fdbc
+2023-03-24 21:47:08 INFO  ServiceImpl:49 - Запроc на транзакцию по переводу денег
+2023-03-24 21:47:08 INFO  ServiceImpl:55 - Транзакция проведена
+2023-03-24 22:14:10 INFO  RepositoryImpl:22 - Трансфер сохранен ru.netology.moneytranferapp.model.TransferBetweenCards@384949ff под ID 0
+2023-03-24 22:14:10 INFO  ServiceImpl:27 - Операция ru.netology.moneytranferapp.model.TransferBetweenCards@384949ff на перевод денежных средств вненесена под id 0
+2023-03-24 22:14:11 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:14:21 INFO  RepositoryImpl:22 - Трансфер сохранен ru.netology.moneytranferapp.model.TransferBetweenCards@3bb58bd9 под ID 1
+2023-03-24 22:14:21 INFO  ServiceImpl:27 - Операция ru.netology.moneytranferapp.model.TransferBetweenCards@3bb58bd9 на перевод денежных средств вненесена под id 1
+2023-03-24 22:14:21 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:14:48 INFO  RepositoryImpl:22 - Трансфер сохранен ru.netology.moneytranferapp.model.TransferBetweenCards@5785730d под ID 2
+2023-03-24 22:14:48 INFO  ServiceImpl:27 - Операция ru.netology.moneytranferapp.model.TransferBetweenCards@5785730d на перевод денежных средств вненесена под id 2
+2023-03-24 22:14:48 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:15:58 INFO  RepositoryImpl:22 - Трансфер сохранен ru.netology.moneytranferapp.model.TransferBetweenCards@750bb50a под ID 0
+2023-03-24 22:15:58 INFO  ServiceImpl:27 - Операция ru.netology.moneytranferapp.model.TransferBetweenCards@750bb50a на перевод денежных средств вненесена под id 0
+2023-03-24 22:17:06 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:17:16 INFO  RepositoryImpl:22 - Трансфер сохранен ru.netology.moneytranferapp.model.TransferBetweenCards@250a8525 под ID 0
+2023-03-24 22:17:16 INFO  ServiceImpl:27 - Операция ru.netology.moneytranferapp.model.TransferBetweenCards@250a8525 на перевод денежных средств вненесена под id 0
+2023-03-24 22:18:14 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:19:12 INFO  RepositoryImpl:22 - Трансфер сохранен ru.netology.moneytranferapp.model.TransferBetweenCards@b6b7a01 под ID 0
+2023-03-24 22:19:12 INFO  ServiceImpl:27 - Операция ru.netology.moneytranferapp.model.TransferBetweenCards@b6b7a01 на перевод денежных средств вненесена под id 0
+2023-03-24 22:31:41 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:31:52 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:31:52 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:31:52 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:33:30 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:33:30 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:34:06 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:34:20 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:34:20 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:34:33 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:38:23 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:38:23 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:38:46 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:38:53 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:38:53 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:38:53 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:39:13 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:39:13 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:40:26 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:40:34 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:40:34 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:40:34 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:41:28 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:41:28 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:44:23 ERROR ServiceValidation:66 - Неверный ID операции
+2023-03-24 22:44:33 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:44:33 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:56:44 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-24 22:56:54 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 0
+2023-03-24 22:56:54 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-24 22:58:37 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-24 22:58:45 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 1
+2023-03-24 22:58:45 INFO  ServiceImpl:27 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-24 23:05:20 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-24 23:05:34 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 1
+2023-03-24 23:05:34 INFO  ServiceImpl:31 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-24 23:10:07 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-24 23:10:16 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} под ID 1
+2023-03-24 23:10:16 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='222', cardToNumber='3333333333333333', amount=Amount{value=333300, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-24 23:10:39 INFO  ServiceImpl:39 - Операция 0 подтверждена 
+2023-03-24 23:11:23 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='3333333333333333', amount=Amount{value=111100, currency='RUR'}} под ID 1
+2023-03-24 23:11:23 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='3333333333333333', amount=Amount{value=111100, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-24 23:11:23 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-24 23:12:55 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='3333333333333333', amount=Amount{value=111100, currency='RUR'}} под ID 1
+2023-03-24 23:12:55 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='2222222222222222', cardFromValidTill='05/26', cardFromCVV='111', cardToNumber='3333333333333333', amount=Amount{value=111100, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-24 23:15:24 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 13:12:38 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} под ID 1
+2023-03-25 13:12:38 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-25 13:12:38 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 2
+2023-03-25 13:12:38 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 13:12:54 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} под ID 1
+2023-03-25 13:12:54 INFO  ServiceImpl:28 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-25 13:23:30 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='null', cardFromValidTill='null', cardFromCVV='null', cardToNumber='null', amount=null} под ID 2
+2023-03-25 13:23:30 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 13:23:43 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} под ID 0
+2023-03-25 13:23:43 INFO  ServiceImpl:31 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-25 13:24:22 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 13:24:30 INFO  RepositoryImpl:22 - Трансфер сохранен TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} под ID 0
+2023-03-25 13:24:30 INFO  ServiceImpl:31 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} на перевод денежных средств вненесена под id 0
+2023-03-25 13:40:21 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 13:40:31 INFO  ServiceImpl:31 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-25 13:40:39 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 13:40:46 INFO  ServiceImpl:31 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-25 13:40:46 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 13:41:49 INFO  ServiceImpl:31 - Операция TransferBetweenCards{cardFromNumber='1111111111111111', cardFromValidTill='10/26', cardFromCVV='333', cardToNumber='2222222222222222', amount=Amount{value=2000000, currency='RUR'}} на перевод денежных средств вненесена под id 1
+2023-03-25 13:41:49 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 13:48:53 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=10/26, cardFromCVV=333, cardToNumber=2222222222222222, amount=Amount[value=2000000, currency=RUR]]номер операции f7e6316a-cb09-4b91-b802-1319c83c2472
+2023-03-25 13:48:53 INFO  ServiceImpl:49 - Запроc на транзакцию по переводу денег
+2023-03-25 13:48:53 INFO  ServiceImpl:55 - Транзакция проведена
+2023-03-25 14:13:50 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=02/26, cardFromCVV=666, cardToNumber=3333333333333333, amount=Amount[value=1222200, currency=RUR]]номер операции 0f01d9e0-2582-46fe-9e5c-67b64fb34e47
+2023-03-25 14:13:50 INFO  ServiceImpl:49 - Запроc на транзакцию по переводу денег
+2023-03-25 14:13:50 INFO  ServiceImpl:55 - Транзакция проведена
+2023-03-25 14:23:30 INFO  RepositoryImpl:30 - Трансфер сохранен TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=3232300, currency=RUR]]номер операции 15700695-16c9-4658-b21e-8adbb48210ed
+2023-03-25 21:40:52 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-25 21:40:52 INFO  ServiceImpl:27 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-25 21:40:52 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 21:41:22 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-25 21:41:22 INFO  ServiceImpl:27 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-25 21:42:05 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 21:42:14 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-25 21:42:14 INFO  ServiceImpl:27 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-25 21:43:31 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 21:43:39 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-25 21:43:39 INFO  ServiceImpl:27 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-25 21:43:39 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 21:47:00 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-25 21:47:00 INFO  ServiceImpl:27 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-25 21:47:00 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 21:47:17 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 1
+2023-03-25 21:47:17 INFO  ServiceImpl:27 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 1 
+2023-03-25 21:47:17 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 21:49:19 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-25 21:49:19 INFO  ServiceImpl:27 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-25 21:49:19 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 21:51:09 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-25 21:51:09 INFO  ServiceImpl:27 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-25 21:54:07 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 21:54:15 INFO  RepositoryImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-25 21:54:15 INFO  ServiceImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-25 21:55:34 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:05:02 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=11/26, cardFromCVV=111, cardToNumber=2222222222222222, amount=Amount[value=1111100, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:05:02 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=11/26, cardFromCVV=111, cardToNumber=2222222222222222, amount=Amount[value=1111100, currency=RUR]] сохранена под id 0 
+2023-03-25 22:08:06 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:08:16 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=11/26, cardFromCVV=111, cardToNumber=2222222222222222, amount=Amount[value=1111100, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:08:16 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=1111111111111111, cardFromValidTill=11/26, cardFromCVV=111, cardToNumber=2222222222222222, amount=Amount[value=1111100, currency=RUR]] сохранена под id 0 
+2023-03-25 22:09:57 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:17:45 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:17:45 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:17:45 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:18:26 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:18:26 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:18:26 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:18:37 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:18:37 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:22:11 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:29:50 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:29:50 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:29:50 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:31:43 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:31:43 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:38:58 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:39:06 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:39:06 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:41:39 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:42:02 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:42:02 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:42:25 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:42:56 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:42:56 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:42:56 ERROR ServiceValidation:62 - Неверный ID операции
+2023-03-25 22:47:49 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]]ID тарнзакции 0
+2023-03-25 22:47:49 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=04/25, cardFromCVV=222, cardToNumber=5555555555555555, amount=Amount[value=2000000, currency=RUR]] сохранена под id 0 
+2023-03-25 22:47:49 ERROR ServiceValidation:56 - Неправльный id операции
+2023-03-27 21:17:35 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=2222222222222222, cardFromValidTill=05/27, cardFromCVV=555, cardToNumber=3333333333333333, amount=Amount[value=200000, currency=RUR]]ID тарнзакции 0
+2023-03-27 21:17:35 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=2222222222222222, cardFromValidTill=05/27, cardFromCVV=555, cardToNumber=3333333333333333, amount=Amount[value=200000, currency=RUR]] сохранена под id 0 
+2023-03-27 21:17:35 ERROR ServiceValidation:56 - Неправльный id операции
+2023-03-27 21:26:34 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=2222222222222222, cardFromValidTill=05/27, cardFromCVV=555, cardToNumber=3333333333333333, amount=Amount[value=200000, currency=RUR]]ID тарнзакции 0
+2023-03-27 21:26:34 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=2222222222222222, cardFromValidTill=05/27, cardFromCVV=555, cardToNumber=3333333333333333, amount=Amount[value=200000, currency=RUR]] сохранена под id 0 
+2023-03-27 21:26:34 INFO  ServiceTransferImpl:38 - Операция с id: 0 подтверждена. Перевод выполнен успешно
+2023-03-27 21:27:20 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=2222222222222222, cardFromValidTill=05/29, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 1
+2023-03-27 21:27:20 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=2222222222222222, cardFromValidTill=05/29, cardFromCVV=222, cardToNumber=3333333333333333, amount=Amount[value=2222200, currency=RUR]] сохранена под id 1 
+2023-03-27 21:27:20 INFO  ServiceTransferImpl:38 - Операция с id: 1 подтверждена. Перевод выполнен успешно
+2023-03-27 21:40:04 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=11/28, cardFromCVV=222, cardToNumber=2222222222222222, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-27 21:40:04 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=4444444444444444, cardFromValidTill=11/28, cardFromCVV=222, cardToNumber=2222222222222222, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-27 21:40:23 INFO  ServiceTransferImpl:31 - Операция с id: 0 подтверждена. Перевод выполнен успешно
+2023-03-27 21:40:40 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCards[cardFromNumber=3333333333333333, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=2222222222222222, amount=Amount[value=2222200, currency=RUR]]ID тарнзакции 0
+2023-03-27 21:40:40 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCards[cardFromNumber=3333333333333333, cardFromValidTill=05/26, cardFromCVV=222, cardToNumber=2222222222222222, amount=Amount[value=2222200, currency=RUR]] сохранена под id 0 
+2023-03-27 21:40:40 INFO  ServiceTransferImpl:31 - Операция с id: 0 подтверждена. Перевод выполнен успешно
+2023-03-27 22:14:00 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCard{cardFromNumber='3333333333333333', cardFromValidTill='11/28', cardFromCVV='222', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@3854a52d}ID тарнзакции 0
+2023-03-27 22:14:00 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCard{cardFromNumber='3333333333333333', cardFromValidTill='11/28', cardFromCVV='222', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@3854a52d} сохранена под id 0 
+2023-03-27 22:14:00 INFO  ServiceTransferImpl:31 - Операция с id: 0 подтверждена. Перевод выполнен успешно
