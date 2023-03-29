@@ -14,13 +14,7 @@ import ru.netology.moneytranferapp.service.ServiceTransferImpl;
 @RequiredArgsConstructor
 
 public class Controller {
-//    RepositoryImpl repository = new RepositoryImpl();
-//    ServiceValidation serviceValidation = new ServiceValidation();
- //   ServiceImpl service = new ServiceImpl(repository,serviceValidation);
 
- //   public Controller(ServiceImpl service) {
-//        this.service = service;
-//    }
     private final ServiceTransferImpl service;
 
     @PostMapping("transfer")
