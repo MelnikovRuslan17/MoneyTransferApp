@@ -60,11 +60,12 @@ public class ServiceValidationTest {
         String expected = String.format("CVV не заполнен %s", id);
         Assertions.assertEquals(exception.getMessage(), expected);
     }
-        @ParameterizedTest
-        @NullSource
-        @DisplayName("Проверка отработки ошибки потверждения операции при null")
-        public void validConfirmOperation (OperationConfirmation operationConfirmation){
-        ServerException exception = Assertions.assertThrows(ServerException.class, ()-> serviceValidation.validConfirmOperation(operationConfirmation));
+
+    @ParameterizedTest
+    @NullSource
+    @DisplayName("Проверка отработки ошибки потверждения операции при null")
+    public void validConfirmOperation(OperationConfirmation operationConfirmation) {
+        ServerException exception = Assertions.assertThrows(ServerException.class, () -> serviceValidation.validConfirmOperation(operationConfirmation));
         String expected = String.format("Ошибка подтверждения операции %s", null);
         Assertions.assertEquals(exception.getMessage(), expected);
 
