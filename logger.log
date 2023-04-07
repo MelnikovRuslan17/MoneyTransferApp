@@ -364,3 +364,25 @@
 2023-03-28 21:56:19 INFO  RepositoryTransferImpl:22 - Транзакция сохранена в репозиторий TransferBetweenCard{cardFromNumber='1111111111111111', cardFromValidTill='4532', cardFromCVV='444', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@75839695}ID тарнзакции 0
 2023-03-28 21:56:19 INFO  ServiceTransferImpl:24 - Транзакция TransferBetweenCard{cardFromNumber='1111111111111111', cardFromValidTill='11/26', cardFromCVV='111', cardToNumber='2222222222222222', amount=ru.netology.moneytranferapp.model.Amount@21a6a494} сохранена под id 1 
 2023-03-28 21:56:19 INFO  ServiceTransferImpl:31 - Операция с id: 10 подтверждена. Перевод выполнен успешно
+2023-04-07 22:16:58 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:16:58 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:16:58 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:17:39 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:17:40 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:17:40 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:18:14 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:18:14 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:18:14 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:18:32 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:18:32 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:18:32 ERROR ServiceValidation:25 - Ошибка операции: операция не определена
+2023-04-07 22:34:33 ERROR ServiceValidation:29 - Карта списания не заполнена
+2023-04-07 22:34:33 ERROR ServiceValidation:29 - Карта списания не заполнена
+2023-04-07 22:35:00 ERROR ServiceValidation:29 - Карта списания не заполнена
+2023-04-07 22:35:00 ERROR ServiceValidation:29 - Карта списания не заполнена
+2023-04-07 22:49:31 ERROR ServiceValidation:33 - Карта списания не заполнена
+2023-04-07 22:49:31 ERROR ServiceValidation:33 - Карта списания не заполнена
+2023-04-07 23:01:38 ERROR ServiceValidation:37 - CVV не заполнен
+2023-04-07 23:02:37 ERROR ServiceValidation:37 - CVV не заполнен
+2023-04-07 23:02:37 ERROR ServiceValidation:37 - CVV не заполнен
+2023-04-07 23:11:56 INFO  ServiceValidation:51 - Ошибка подтверждения операции
